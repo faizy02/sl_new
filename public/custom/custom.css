@@ -1,0 +1,45 @@
+@font-face {
+    font-family: patua;
+    src: url("../fonts/PatuaOne-Regular.ttf");
+}
+.container{
+  font-family: patua;
+}
+.row.text-center > div {
+    display: inline-block;
+    float: none;
+}
+
+.price {
+	color: coral;
+}
+
+#mycontainer{
+  background-color: #361134;
+  border: 1px #000 solid;
+  color:white;
+}
+.mywrapper{
+  height : 100px;
+}
+#searchImg{
+  width: auto;
+  /*height: auto;*/
+  max-width: 100%;
+  max-height: 100%;
+}
+.searchBtn{
+  background-color: #B0228C;
+  width:150px;
+  border-radius: 0px;
+  border: 0px;
+}
+.searchBar{
+  border-radius: 0px;
+}
+.searchBtn:hover{
+  background-color: #B0229C;
+}
+.mynavbar{
+  height:50px;
+}
