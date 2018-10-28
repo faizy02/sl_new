@@ -2,9 +2,9 @@
 
 <?php $page_title = "SL" ?>
 <?php include_once(SHARED_PATH . "/header.php"); ?>
-//CONTENT
+<!--Content-->
 <div class="container">
-
+  
 </div>
 
 

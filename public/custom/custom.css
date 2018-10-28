@@ -3,7 +3,7 @@
     src: url("../fonts/PatuaOne-Regular.ttf");
 }
 .container{
-  font-family: patua;
+  /*font-family: patua;*/
 }
 .row.text-center > div {
     display: inline-block;
